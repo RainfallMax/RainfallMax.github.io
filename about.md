@@ -25,8 +25,6 @@ titles:
   # @end locale config
 key: page-about
 ---
-# Stranger Things
-
 #### 怪奇物语中...
 
 

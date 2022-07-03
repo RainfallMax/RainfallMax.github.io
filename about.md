@@ -25,7 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-#### 怪奇物语中...
+#### yayayayaya...
 
 
 ```chart
@@ -90,6 +90,7 @@ key: page-about
           109.6,
           108.1,
           108.5,
+          107.6,
           107.6
         ],
         "spanGaps": false

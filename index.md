@@ -1,1 +1,2 @@
-# 怪奇物语的小黑人真傻逼。    
+# ReJi 
+![anchor text](https://w.wallhaven.cc/full/v9/wallhaven-v96gkp.jpg "图片测试")
